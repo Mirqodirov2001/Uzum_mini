@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.4);
+}
